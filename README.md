@@ -50,7 +50,11 @@
 <p align="center">
   <img = https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tarutiwari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="50%"  />
 </p>
+## 💻 Most Used Languages
 
+![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-5%25-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-5%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
 ## 🔥 Activity Graph
