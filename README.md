@@ -31,22 +31,16 @@
 <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
 <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/Pandas-darkgreen?style=for-the-badge"/>
+<img src=https://tse4.mm.bing.net/th/id/OIP.hcJ4LMvo1l2YRmp0CxZtnwHaEK?pid=Api&P=0&h=220/>
 </p>
 
 ---
 
 ## 🔥 Activity Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github.com/Tarutiwari/&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue"/>
-</p>king on ...
-- 🌱 I’m currently learning ...
 
-
--->
